@@ -1,0 +1,24 @@
+Backend Developer/ Core Java Restful webservices developer
+453181
+6.6-10yrs
+The Role
+We are looking for developers with significant experience in backend development. Your primary focus will be development of all server-side logic, definition and maintenance of the database, and ensuring high performance and responsiveness to requests from the front-end. You will also be working with other internal teams to help them integrate the front-end elements into the application.
+You will be required to design and execute open source cloud software initiatives as well. The candidate has the ability to quickly grasp and map highly complex matters into clean, understandable solutions. Has strong communication and organizational skills who is willing to prove him/herself within a company of talented individuals.
+Responsibilities include
+•	Building reusable code and libraries
+•	Develop, test and deliver integrations for customers to provide highly scalable and repeatable integrations
+•	A true “roll up the sleeves and get it done” working approach; a problem solver, operating as a result-oriented, self-starter
+•	Leveraging your broad technology capability set and develop, and iteratively deploy real enterprise class software
+Skills & Experience
+•	Very strong object oriented design skills and understanding of well-engineered design
+•	Proficiency in the following skills and technologies is mandatory:
+•	Java EE including (Web Services, REST, JPA).
+•	Database (SQL server/Oracle/MySQL/MongoDB/Cassandra)
+•	Spring, Hibernate, Spring MVC, Microservices
+•	SOA, EDA, and Design patterns
+•	Cloud computing architecting
+•	Hosting and server technologies Tomcat/ JBoss
+•	Code versioning tools like Git, Gerrit, Svn, Mercurial
+•	Good working Knowledge on Jenkins, Ansible, Sonar
+•	Extensive problem solving skills and hands on experience with data structures and algorithms
+•	Experience with Cloud architecture and DevOps(CI/CD)
